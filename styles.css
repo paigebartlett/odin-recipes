@@ -2,6 +2,16 @@ h1 {
     font-size: 72px;
     text-align: center;
     font-family: 'Garamond', 'Times New Roman', serif;
-    colo
 }
 
+body {
+    background-color: rgb(215, 169, 156);
+}
+
+h2 {
+    color: rgb(49, 0, 47);
+}
+
+a {
+    color: rgb(123, 0, 37);
+}
