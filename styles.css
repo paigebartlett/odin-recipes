@@ -20,3 +20,8 @@ img {
     width: 500px; 
     height: auto;
 }
+
+.caption {
+    font-size: 14px;
+    font-style: italic;
+}
